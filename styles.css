@@ -1,0 +1,13 @@
+h1 {
+  font-style: bold;
+  background-color: lightgray;
+}
+.blue {
+  background-color: lightblue;
+}
+tr {
+  background-color: plum;
+}
+tr:hover {
+  text-decoration: underline;
+}
